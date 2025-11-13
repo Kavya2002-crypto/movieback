@@ -1,0 +1,70 @@
+{
+  "reviews": [
+    {
+      "id": "28c5",
+      "movieId": "tt1375666",
+      "text": "super",
+      "rating": 4,
+      "date": "2025-11-02T08:35:03.372Z"
+    },
+    {
+      "id": "8aac",
+      "movieId": "tt33372494",
+      "text": "super",
+      "rating": 5,
+      "date": "2025-11-02T17:55:57.123Z"
+    },
+    {
+      "id": "f178",
+      "movieId": "tt33372494",
+      "text": "awesome",
+      "rating": 5,
+      "date": "2025-11-02T18:19:11.109Z"
+    },
+    {
+      "id": "4aa7",
+      "movieId": "tt33372494",
+      "text": "good",
+      "rating": 5,
+      "date": "2025-11-02T18:23:12.244Z"
+    },
+    {
+      "id": "2a69",
+      "movieId": "tt0816692",
+      "text": "nice",
+      "rating": 4,
+      "date": "2025-11-03T14:30:10.719Z"
+    },
+    {
+      "movieId": "tt33372494",
+      "text": "niceeee",
+      "rating": 4,
+      "date": "2025-11-04T13:18:40.013Z",
+      "id": "44d9"
+    },
+    {
+      "id": "2d5c",
+      "movieId": "tt0816692",
+      "text": "good",
+      "rating": 5,
+      "date": "2025-11-04T13:21:12.596Z"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "565d",
+      "movieId": "tt1375666",
+      "title": "Inception"
+    },
+    {
+      "id": "fc95",
+      "movieId": "tt33372494",
+      "title": "Lokah Chapter One: Chandra"
+    },
+    {
+      "id": "42eb",
+      "movieId": "tt0816692",
+      "title": "Interstellar"
+    }
+  ]
+}
